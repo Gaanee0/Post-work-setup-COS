@@ -44,7 +44,7 @@ Check everything is right and install it
 - paru
 - manual snapshot -- fresh install
 - packages to install
-  - niri sddm refind kitty neovim keyd zen-browser kdeconnect rofi-wayland wl-clipboard arch-audit-gtk xwayland-satellite xdg-desktop-portal-gtk gnome-keyring nautilus dolphin xdg-desktop-portal-gnome 
+  - niri sddm refind kitty neovim keyd zen-browser kdeconnect rofi-wayland wl-clipboard arch-audit-gtk xwayland-satellite xdg-desktop-portal-gtk gnome-keyring nautilus dolphin xdg-desktop-portal-gnome ttf-atkinson-hyperlegible ttf-jetbrains-mono-nerd ttf-jetbrains-mono 
 - [nvim rice](https://nvchad.com/docs/quickstart/install/)
 - [keyd](https://github.com/rvaiya/keyd}
 - refind install
@@ -52,7 +52,14 @@ Check everything is right and install it
 - manual snapshot -- bare 
 - reboot and put refind as default boot & disable other boot managers.
 - niri edit replace mod with atl, kitty, rofi
-- [refind theme](https://github.com/catppuccin/refind?tab=readme-ov-file) --mocha
+- Initial login
+  - zen-browser sync
+  - github
+  - chatgpt
+  - deepseek
+  - gemini
+  - gork
+- [refind theme](https://github.com/catppuccin/refind) --mocha
 - after adjusting the theme make sure it works right
 - manual snaphots -- after refind rice
 - [Limine boot rice](https://github.com/catppuccin/limine) --mocha
@@ -77,6 +84,11 @@ Check everything is right and install it
     - brightness daemon
     - sound daemon
     - prettyfy everything
+    - make tokyo dark the nautillus
   - [niri config by color](https://github.com/sansroot/hypr-dots/tree/sapphire), [niri wiki](https://github.com/YaLTeR/niri/wiki/Getting-Started) for ref
 - manual snapshot -- after niri rice
-- 
+- Cachy post installation && mkinitcpio firmware
+- reboot
+- manual snapshot --post cachy opti
+- bit-warden ente-auth-bin filen-desktop better-bird obsidian okular brave-bin spotify-adblock anki zapzap telegram-desktop electron-mail
+  - login ssh  
