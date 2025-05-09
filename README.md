@@ -56,6 +56,7 @@ Check everything is right and install it
 - manual snapshot -- bare 
 - reboot and put refind as default boot & disable other boot managers.
 - Initial login
+  - kde connect
   - zen-browser sync
   - github
   - chatgpt
