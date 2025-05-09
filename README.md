@@ -42,16 +42,41 @@ Check everything is right and install it
 ## Post installation
 - tty login
 - paru
-- manual snapshot -- fresh
+- manual snapshot -- fresh install
 - packages to install
-  - niri sddm refind kitty neovim keyd zen-browser
+  - niri sddm refind kitty neovim keyd zen-browser kdeconnect rofi-wayland wl-clipboard arch-audit-gtk xwayland-satellite xdg-desktop-portal-gtk gnome-keyring nautilus dolphin xdg-desktop-portal-gnome 
+- [nvim rice](https://nvchad.com/docs/quickstart/install/)
 - [keyd](https://github.com/rvaiya/keyd}
 - refind install
 - enable sddm
-- manual snapshot -- before refind rice
+- manual snapshot -- bare 
 - reboot and put refind as default boot & disable other boot managers.
-- [refind theme](https://github.com/indgy/refind-bsd-black) 
+- niri edit replace mod with atl, kitty, rofi
+- [refind theme](https://github.com/catppuccin/refind?tab=readme-ov-file) --mocha
 - after adjusting the theme make sure it works right
 - manual snaphots -- after refind rice
-- [Limine boot rice](https://github.com/catppuccin/limine)
+- [Limine boot rice](https://github.com/catppuccin/limine) --mocha
+- Check limine boot is working
+- manual snapshot -- after limine rice
+- [sddm rice](https://github.com/stepanzubkov/where-is-my-sddm-theme)
+- Check the condition
+- manual snapshot -- after sddm rice
+- [niri](https://github.com/YaLTeR/niri) work space rice
+  - follow the config [Cat](https://github.com/sansroot/hypr-dots/tree/sapphire)
+  - make sure everything works
+    - waybar
+    - logout
+    - idleinhibitor
+    - lock
+    - wallpaper
+    - x11 apps
+    - clipboard
+    - make 60fps default
+    - notification daemon
+    - bluetooth daemon
+    - brightness daemon
+    - sound daemon
+    - prettyfy everything
+  - [niri config by color](https://github.com/sansroot/hypr-dots/tree/sapphire), [niri wiki](https://github.com/YaLTeR/niri/wiki/Getting-Started) for ref
+- manual snapshot -- after niri rice
 - 
