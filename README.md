@@ -40,3 +40,13 @@ This a my documentation of getting a work setup in cachy os.
 Check everything is right and install it
 
 ## Post installation
+- tty login
+- paru
+- packages to install
+  - niri sddm alacritty wofi waybar refind kitty tmux neovim keyd hyprlock wlogout hypridle swaybg 
+  - refind install
+  - enable sddm
+  - [refind theme](https://github.com/indgy/refind-bsd-black) 
+  - reboot and put refind as default boot & disable other boot managers.
+  - after adjusting the theme make sure it works right make a manual snapshot
+  - 
