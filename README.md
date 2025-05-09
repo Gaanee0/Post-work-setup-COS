@@ -90,6 +90,7 @@ Check everything is right and install it
     - prettyfy everything
     - make tokyo dark the nautillus
     - zen rice
+    - kitty raise
     - obsidian rice
   - [niri config by color](https://github.com/sansroot/hypr-dots/tree/sapphire), [niri wiki](https://github.com/YaLTeR/niri/wiki/Getting-Started) for ref
 - manual snapshot -- after niri rice
