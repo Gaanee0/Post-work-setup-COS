@@ -48,14 +48,14 @@ Check everything is right and install it
 - sudo asusctl -c 80
 - sudo sytemctl enable --now tuned-ppd
 - sudo tuned-adm profile powersave
-- sudo sytemctl enable --now sddm
 - nvim change the niri kitty, rofi
+- sudo sytemctl enable --now sddm
 - [nvim rice](https://nvchad.com/docs/quickstart/install/)
 - [keyd](https://github.com/rvaiya/keyd)
 - refind install
 - manual snapshot -- bare 
 - reboot and put refind as default boot & disable other boot managers.
-- niri edit replace mod with atl, kitty, rofi
+- niri
 - Initial login
   - zen-browser sync
   - github
