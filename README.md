@@ -99,4 +99,5 @@ Check everything is right and install it
 - manual snapshot --post cachy opti
 - bit-warden ente-auth-bin filen-desktop better-bird obsidian okular brave-bin spotify-adblock anki zapzap telegram-desktop electron-mail arch-audit-gtk
   - login ssh obsidian
+  - ublock and leechcode
 - manula snapshot -- all done workinf
