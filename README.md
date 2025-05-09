@@ -46,10 +46,12 @@ Check everything is right and install it
 - packages to install
   - niri sddm refind kitty neovim keyd zen-browser kdeconnect rofi-wayland wl-clipboard xwayland-satellite xdg-desktop-portal-gtk gnome-keyring nautilus dolphin xdg-desktop-portal-gnome ttf-atkinson-hyperlegible ttf-jetbrains-mono-nerd ttf-jetbrains-mono sshfs asusctl tuned-ppd
 - sudo asusctl -c 80
+- sudo sytemctl enable --now tuned-ppd
 - sudo tuned-adm profile powersave
 - sudo sytemctl enable --now sddm
+- nvim change the niri kitty, rofi
 - [nvim rice](https://nvchad.com/docs/quickstart/install/)
-- [keyd](https://github.com/rvaiya/keyd}
+- [keyd](https://github.com/rvaiya/keyd)
 - refind install
 - manual snapshot -- bare 
 - reboot and put refind as default boot & disable other boot managers.
