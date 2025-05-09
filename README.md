@@ -91,8 +91,9 @@ Check everything is right and install it
     - obsidian rice
   - [niri config by color](https://github.com/sansroot/hypr-dots/tree/sapphire), [niri wiki](https://github.com/YaLTeR/niri/wiki/Getting-Started) for ref
 - manual snapshot -- after niri rice
-- Cachy post installation && mkinitcpio firmware && [sabi](https://github.com/sabi-31/My_Perfect_Arch-linux) skim throug it
+- Cachy post installation && mkinitcpio firmware && [sabi](https://github.com/sabi-31/My_Perfect_Arch-linux) skim throug it for post install
 - reboot
 - manual snapshot --post cachy opti
 - bit-warden ente-auth-bin filen-desktop better-bird obsidian okular brave-bin spotify-adblock anki zapzap telegram-desktop electron-mail arch-audit-gtk
   - login ssh obsidian
+- manula snapshot -- all done workinf
