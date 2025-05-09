@@ -25,7 +25,7 @@ This a my documentation of getting a work setup in cachy os.
   - alacritty
   - btop
   - meld
-  - nano-ayntax
+  - nano-syntax
   - vi
   - micro
   - nano
@@ -44,7 +44,7 @@ Check everything is right and install it
 - paru
 - manual snapshot -- fresh install
 - packages to install
-  - niri sddm refind kitty neovim keyd zen-browser kdeconnect rofi-wayland wl-clipboard xwayland-satellite xdg-desktop-portal-gtk gnome-keyring nautilus dolphin xdg-desktop-portal-gnome ttf-atkinson-hyperlegible ttf-jetbrains-mono-nerd ttf-jetbrains-mono sshfs asusctl
+  - niri sddm refind kitty neovim keyd zen-browser kdeconnect rofi-wayland wl-clipboard xwayland-satellite xdg-desktop-portal-gtk gnome-keyring nautilus dolphin xdg-desktop-portal-gnome ttf-atkinson-hyperlegible ttf-jetbrains-mono-nerd ttf-jetbrains-mono sshfs asusctl tuned-ppd
 - sudo asusctl -c 80
 - [nvim rice](https://nvchad.com/docs/quickstart/install/)
 - [keyd](https://github.com/rvaiya/keyd}
