@@ -42,11 +42,16 @@ Check everything is right and install it
 ## Post installation
 - tty login
 - paru
+- manual snapshot -- fresh
 - packages to install
-  - niri sddm alacritty wofi waybar refind kitty tmux neovim keyd hyprlock wlogout hypridle swaybg 
-  - refind install
-  - enable sddm
-  - [refind theme](https://github.com/indgy/refind-bsd-black) 
-  - reboot and put refind as default boot & disable other boot managers.
-  - after adjusting the theme make sure it works right make a manual snapshot
-  - 
+  - niri sddm refind kitty neovim keyd zen-browser
+- [keyd](https://github.com/rvaiya/keyd}
+- refind install
+- enable sddm
+- manual snapshot -- before refind rice
+- reboot and put refind as default boot & disable other boot managers.
+- [refind theme](https://github.com/indgy/refind-bsd-black) 
+- after adjusting the theme make sure it works right
+- manual snaphots -- after refind rice
+- [Limine boot rice](https://github.com/catppuccin/limine)
+- 
