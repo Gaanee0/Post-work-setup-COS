@@ -87,6 +87,8 @@ Check everything is right and install it
     - bluetooth daemon
     - brightness daemon
     - sound daemon
+    - btrfs asistant
+    - snapper
     - prettyfy everything
     - make tokyo dark the nautillus
     - zen rice
@@ -101,4 +103,4 @@ Check everything is right and install it
   - login ssh obsidian
   - login reddit, proton calendar youtube
   - ublock and leechcode
-- manula snapshot -- all done workinf
+- manula snapshot -- all done working
