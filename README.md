@@ -79,6 +79,7 @@ Check everything is right and install it
     - logout
     - Shutdown
     - idleinhibitor
+    - charing animation
     - lock when suspension
     - lock
     - wallpaper
