@@ -92,6 +92,7 @@ Check everything is right and install it
     - sound daemon
     - btrfs asistant
     - snapper
+    - niri important apps
     - prettyfy everything
     - make cursor work
     - make tokyo dark the nautillus
