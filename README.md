@@ -90,6 +90,7 @@ Check everything is right and install it
     - btrfs asistant
     - snapper
     - prettyfy everything
+    - make cursor work
     - make tokyo dark the nautillus
     - zen rice
     - kitty raise
