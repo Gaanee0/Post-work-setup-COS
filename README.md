@@ -77,6 +77,7 @@ Check everything is right and install it
   - make sure everything works
     - waybar
     - logout
+    - Shutdown
     - idleinhibitor
     - lock
     - wallpaper
