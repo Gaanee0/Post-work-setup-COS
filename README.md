@@ -79,6 +79,7 @@ Check everything is right and install it
     - logout
     - Shutdown
     - idleinhibitor
+    - lock when suspension
     - lock
     - wallpaper
     - x11 apps
