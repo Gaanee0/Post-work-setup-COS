@@ -83,6 +83,7 @@ Check everything is right and install it
     - lock when suspension
     - lock
     - wallpaper
+    - swaylock wallpaper
     - x11 apps
     - niri kwybinds edit (over haul)
     - clipboard
