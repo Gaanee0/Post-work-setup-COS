@@ -84,6 +84,7 @@ Check everything is right and install it
     - lock
     - wallpaper
     - x11 apps
+    - niri kwybinds edit (over haul)
     - clipboard
     - make 60fps default
     - notification daemon
