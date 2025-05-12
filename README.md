@@ -90,6 +90,7 @@ Check everything is right and install it
     - make 60fps default
     - notification daemon
     - notification float in a windows left side down "windows rule match app-id"
+    - set the downloading screen be in the middle
     - bluetooth daemon
     - brightness daemon
     - sound daemon
