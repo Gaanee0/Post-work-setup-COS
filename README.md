@@ -110,4 +110,5 @@ Check everything is right and install it
   - login ssh obsidian
   - login reddit, proton calendar youtube
   - ublock and leechcode
+  - zen browser essential space
 - manula snapshot -- all done working
