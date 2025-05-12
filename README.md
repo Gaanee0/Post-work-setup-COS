@@ -108,7 +108,7 @@ Check everything is right and install it
 - Cachy post installation && mkinitcpio firmware && [sabi](https://github.com/sabi-31/My_Perfect_Arch-linux) skim throug it for post install
 - reboot
 - manual snapshot --post cachy opti
-- bit-warden ente-auth-bin filen-desktop better-bird obsidian okular brave-bin spotify-adblock anki zapzap telegram-desktop electron-mail arch-audit-gtk
+- bit-warden ente-auth-bin filen-desktop better-bird obsidian okular brave-bin spotify-adblock anki zapzap telegram-desktop electron-mail arch-audit-gtk vlc
   - login ssh obsidian
   - login reddit, proton calendar youtube
   - ublock and leechcode
