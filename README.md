@@ -89,6 +89,7 @@ Check everything is right and install it
     - clipboard
     - make 60fps default
     - notification daemon
+    - notification float in a windows left side down "windows rule match app-id"
     - bluetooth daemon
     - brightness daemon
     - sound daemon
