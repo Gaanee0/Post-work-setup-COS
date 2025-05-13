@@ -89,6 +89,7 @@ Check everything is right and install it
     - clipboard
     - make 60fps default
     - notification daemon
+    - set battery red n the after 20
     - notification float in a windows left side down "windows rule match app-id"
     - set the downloading screen be in the middle
     - bluetooth daemon
