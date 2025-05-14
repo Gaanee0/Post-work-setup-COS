@@ -118,6 +118,6 @@ Check everything is right and install it
   - change search
   - setup brave
 - manula snapshot -- all done But wooz
-- wooz for zooming
+- [hyprpicker](https://github.com/hyprwm/hyprpicker) for zooming
 - manual snapshot
 
