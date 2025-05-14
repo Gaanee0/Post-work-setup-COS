@@ -107,7 +107,6 @@ Check everything is right and install it
   - [niri config by color](https://github.com/color00/arch-niri-public), [niri wiki](https://github.com/YaLTeR/niri/wiki/Getting-Started) for ref
 - manual snapshot -- after niri rice
 - update error
-- wooz for zooming
 - Cachy post installation && mkinitcpio firmware && [sabi](https://github.com/sabi-31/My_Perfect_Arch-linux) skim throug it for post install
 - reboot
 - manual snapshot --post cachy opti
@@ -116,4 +115,9 @@ Check everything is right and install it
   - login reddit, proton calendar youtube
   - ublock and leechcode
   - zen browser essential space
-- manula snapshot -- all done working
+  - change search
+  - setup brave
+- manula snapshot -- all done But wooz
+- wooz for zooming
+- manual snapshot
+
