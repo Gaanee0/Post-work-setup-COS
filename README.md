@@ -120,4 +120,5 @@ Check everything is right and install it
 - manula snapshot -- all done But wooz
 - [hyprpicker](https://github.com/hyprwm/hyprpicker) for zooming
 - manual snapshot
+- download all the books
 
