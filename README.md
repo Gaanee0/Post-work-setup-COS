@@ -119,13 +119,14 @@ Check everything is right and install it
   - setup brave
 - manula snapshot -- all done But wooz
 - [hyprpicker](https://github.com/hyprwm/hyprpicker) for zooming
+- shodow rules
+- overwiev in swww
+- correct windows rules app id to correct it
 - put the configs in the filen
   - .config
   - limineconig
   - refind config
   - sddm config
-- shodow rules
-- overwiev in swww
 - manual snapshot
 - download all the books
 - put all the books in the filen
