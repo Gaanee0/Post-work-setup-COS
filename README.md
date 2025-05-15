@@ -119,6 +119,13 @@ Check everything is right and install it
   - setup brave
 - manula snapshot -- all done But wooz
 - [hyprpicker](https://github.com/hyprwm/hyprpicker) for zooming
+- put the configs in the filen
+  - .config
+  - limineconig
+  - refind config
+  - sddm config
+  -  
 - manual snapshot
 - download all the books
+- put all the books in the filen
 
