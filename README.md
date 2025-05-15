@@ -124,7 +124,8 @@ Check everything is right and install it
   - limineconig
   - refind config
   - sddm config
-  -  
+- shodow rules
+- overwiev in swww
 - manual snapshot
 - download all the books
 - put all the books in the filen
